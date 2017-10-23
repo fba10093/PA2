@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This is a pair of functions that cache the inverse of a function
 
 ## The first function, makeCacheMatrix creates a speach "matrix"
 ## that can cache its inverse. It allows for the:  
